@@ -1,5 +1,7 @@
 # Aria2Gui-Mod
 
+Releases中有我修改好的版本可以直接下载使用
+
 原作者的中文文档
 [中文文档](https://www.hguandl.com/post/8f0b723a.html)
 
@@ -17,6 +19,7 @@ Some patches to aria2. Remove connection limit and fix building on macOS.
 - Disable checking certificates by default
 - Fix defination of `std::make_unique` to build on maxOS.
 
+## 中文Introduction
 - 默认开启断点续传
 - 默认同时下载数改为 128
 - 默认同服务器连接数改为 64，解除了之前 16 的限制
