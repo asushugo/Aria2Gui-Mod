@@ -49,3 +49,5 @@ $ make install
 
 ## References
 - https://www.52pojie.cn/thread-602534-1-1.html
+- https://github.com/hguandl/aria2-patch
+- https://github.com/yangshun1029/aria2gui
